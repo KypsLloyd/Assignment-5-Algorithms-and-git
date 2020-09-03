@@ -12,4 +12,3 @@ for x in range(0, n-3):
 
 for i in inital_sequence:
     print(i)
-print(inital_sequence)
